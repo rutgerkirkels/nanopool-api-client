@@ -1,9 +1,18 @@
 <?php
 namespace RutgerKirkels\NanoPool_API_Client;
 
+/**
+ * Class Client
+ * @package RutgerKirkels\NanoPool_API_Client
+ * @author Rutger Kirkels <rutger@kirkels.nl>
+ */
 class Client
 {
+    /**
+     * @var string
+     */
     protected $walletAddress;
+
     protected $currency;
     protected $prices = [];
     protected $connector;
