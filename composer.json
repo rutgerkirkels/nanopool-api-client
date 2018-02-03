@@ -1,7 +1,7 @@
 {
     "name": "rutgerkirkels/nanopool-api-client",
     "description": "A PHP client to connect to the NanoPool API",
-    "homepage": "https://github.com/rkirkels/nanopool-api-client",
+    "homepage": "https://github.com/rutgerkirkels/nanopool-api-client",
     "keywords": ["nanopool", "client"],
     "license": "MIT",
     "type": "library",
