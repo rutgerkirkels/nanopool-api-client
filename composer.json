@@ -2,7 +2,7 @@
     "name": "rutgerkirkels/nanopool-api-client",
     "description": "A PHP client to connect to the NanoPool API",
     "homepage": "https://github.com/rutgerkirkels/nanopool-api-client",
-    "keywords": ["nanopool", "client"],
+    "keywords": ["nanopool", "client", "nanopool-ethereum-api"],
     "license": "MIT",
     "type": "library",
     "require": {
@@ -16,7 +16,7 @@
         {
             "name": "Rutger Kirkels",
             "email": "rutger@kirkels.nl",
-            "homepage": "http://rutger.kirkels.nl"
+            "homepage": "https://rutger.kirkels.nl"
         }
     ],
     "autoload": {
